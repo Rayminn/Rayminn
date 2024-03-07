@@ -9,7 +9,7 @@
           <img src="https://profile-counter.glitch.me/Rayminn/count.svg">
       </td>
       <td>
-        <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true">
+        <img src="https://github.com/Rayminn/Rayminn/blob/main/duck.gif?raw=true">
       </td>
     </tr>
   </table>
